@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="436f97b9-9b6f-45e9-8cee-ad2ea48c2ea3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PS/string/RevStringWithoutReversingSpecialChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PS/string/RevStringWithoutReversingSpecialChar.class" afterDir="false" />
-    </list>
+    <list default="true" id="436f97b9-9b6f-45e9-8cee-ad2ea48c2ea3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
