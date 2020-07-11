@@ -1,6 +1,5 @@
 package array;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class SplitArrayDigit {
@@ -11,7 +10,6 @@ public class SplitArrayDigit {
         int []arr2 = {28,18,36,70,801};
 
         int leng = Math.max(arr1.length,arr2.length);
-        int minLength =  Math.min(arr1.length,arr2.length);
         int sumArray[] = new int[leng];
 
         for(int i=0;i<leng;i++){
