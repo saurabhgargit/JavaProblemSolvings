@@ -4,12 +4,8 @@ public class RommanToInteger {
 
     public static void main(String[] args) {
 
-
         System.out.println("result is= "+returnInt("MXXXXXC"));
-
-
     }
-
 
     static int value(char c){
 
@@ -31,17 +27,12 @@ public class RommanToInteger {
             return -1;
 
     }
-
     static int returnInt(String s){
         int result = 0;
 
-
-
         for (int i=0;i<s.length();i++){
             System.out.println("loop starting value of i is= "+i);
-
            int s1  = value(s.charAt(i));   //1
-
            if(i+1 <s.length()) {
                int s2 = value(s.charAt(i + 1));  //1
                if(s1>=s2)
