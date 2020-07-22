@@ -6,7 +6,7 @@ public class RemoveElement {
 
         /*
         * Remove the given element from array
-        * https://leetcode.com/problems/remove-element/
+        * <a href='https://leetcode.com/problems/remove-element/'
         * */
 
         int arr[] = {2,3,4,3,8,9,12,3,4};
