@@ -4,6 +4,11 @@ public class RemoveElement {
 
     public static void main(String[] args) {
 
+        /*
+        * Remove the given element from array
+        * https://leetcode.com/problems/remove-element/
+        * */
+
         int arr[] = {2,3,4,3,8,9,12,3,4};
         int val = 3;
         removeElement(arr, val);
